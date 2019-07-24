@@ -9,7 +9,7 @@ The aim of these scripts is to
 - Run CRootBOX in a batch mode in order to create any number of root systems, with any combinaison of parameters.
 - Compile the parameters files.
 - Generates the corresponding images.
-- Train a Deep neural network to find biological growth parameters from CRootBox images.
-- Predict the phenotype of real scans of experimental root systems from this training neural network
-or
-- Classify real scans of root systems into different classes of phenotypes
+- Design a Deep neural network.
+- Train this Deep neural network to find out biological growth parameters from CRootBox images (from RIAJ proxies).
+- Predict the phenotype of real scans of experimental root systems from this trained neural network.
+- Classify real scans of root systems into different classes of phenotypes.
