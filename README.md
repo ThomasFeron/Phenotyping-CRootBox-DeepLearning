@@ -4,7 +4,7 @@
 
 ### Root systems Generator and Deep Learning neural networks to predict phenotypes from experimental images.
 
-The aim of this script is to
+The aim of these scripts is to
 
 - Run CRootBOX in a batch mode in order to create any number of root systems, with any combinaison of parameters.
 - Compile the parameters files.
