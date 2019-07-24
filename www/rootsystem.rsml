@@ -1,0 +1,2069 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rsml>
+<metadata>
+	<version>1</version>
+	<unit>cm</unit>
+	<resolution>1</resolution>
+	<software>CRootBox</software>
+</metadata>
+<scene>
+<plant>
+<root id="0">
+	<geometry>
+		<polyline>
+			<point x="0" y="0" z="-3"/>
+			<point x="0.381096" y="0.26592" z="-3.08271"/>
+			<point x="2.80768" y="1.82556" z="-3.83595"/>
+			<point x="4.48949" y="2.87361" z="-4.53539"/>
+			<point x="6.69142" y="4.43631" z="-5.90614"/>
+			<point x="8.59013" y="5.81669" z="-7.63548"/>
+			<point x="10.3558" y="7.00529" z="-9.39658"/>
+			<point x="12.098" y="7.88019" z="-11.2468"/>
+			<point x="13.7688" y="8.66305" z="-13.1359"/>
+			<point x="15.3989" y="9.35548" z="-15.3502"/>
+			<point x="16.3101" y="10.0101" z="-17.5057"/>
+			<point x="16.6625" y="10.7392" z="-20.0458"/>
+			<point x="16.6638" y="11.3082" z="-22.5613"/>
+			<point x="16.704" y="11.6706" z="-24.9656"/>
+			<point x="16.6873" y="11.8549" z="-28.4174"/>
+			<point x="16.6613" y="11.8893" z="-30.9566"/>
+			<point x="16.6061" y="11.9723" z="-33.3622"/>
+			<point x="16.5023" y="11.9039" z="-35.7794"/>
+			<point x="16.5097" y="11.9023" z="-38.6397"/>
+			<point x="16.1432" y="12.0899" z="-42.0724"/>
+			<point x="15.8673" y="12.081" z="-43.5205"/>
+		</polyline>
+	</geometry>
+	<properties>
+	</properties>
+	<functions>
+		<function name='emergence_time' domain='polyline'>
+			<sample>0</sample>
+			<sample>0.15632</sample>
+			<sample>1.1556</sample>
+			<sample>1.86962</sample>
+			<sample>2.91659</sample>
+			<sample>3.94158</sample>
+			<sample>4.92869</sample>
+			<sample>5.90536</sample>
+			<sample>6.87947</sample>
+			<sample>7.94763</sample>
+			<sample>8.88209</sample>
+			<sample>9.91918</sample>
+			<sample>10.9385</sample>
+			<sample>11.9173</sample>
+			<sample>13.3353</sample>
+			<sample>14.4</sample>
+			<sample>15.4265</sample>
+			<sample>16.4792</sample>
+			<sample>17.7507</sample>
+			<sample>19.3185</sample>
+			<sample>20</sample>
+		</function>
+	</functions>
+	<root id="6">
+		<geometry>
+			<polyline>
+				<point x="0.381096" y="0.26592" z="-3.08271"/>
+				<point x="-0.303734" y="0.980484" z="-3.21142"/>
+				<point x="-3.79061" y="4.52489" z="-3.70623"/>
+				<point x="-4.20209" y="4.92669" z="-3.78606"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>5.79239</sample>
+				<sample>7.19798</sample>
+				<sample>17.9415</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="7">
+		<geometry>
+			<polyline>
+				<point x="0.823291" y="0.597989" z="-3.18735"/>
+				<point x="0.241416" y="1.18488" z="-3.74029"/>
+				<point x="-2.74834" y="4.19177" z="-6.37456"/>
+				<point x="-3.1211" y="4.54583" z="-6.64369"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>5.99815</sample>
+				<sample>7.40092</sample>
+				<sample>18</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="8">
+		<geometry>
+			<polyline>
+				<point x="1.23839" y="0.846544" z="-3.30914"/>
+				<point x="1.98052" y="0.205677" z="-3.11389"/>
+				<point x="5.70701" y="-2.99631" z="-2.30154"/>
+				<point x="6.48295" y="-3.56433" z="-2.13794"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>6.18116</sample>
+				<sample>7.57245</sample>
+				<sample>17.2055</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="9">
+		<geometry>
+			<polyline>
+				<point x="1.62644" y="1.08887" z="-3.42873"/>
+				<point x="1.45651" y="0.810056" z="-4.36956"/>
+				<point x="0.300053" y="-0.445863" z="-9.05924"/>
+				<point x="0.21867" y="-0.517079" z="-9.32192"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>6.35514</sample>
+				<sample>7.76335</sample>
+				<sample>18.9423</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="10">
+		<geometry>
+			<polyline>
+				<point x="1.99745" y="1.3251" z="-3.53817"/>
+				<point x="1.5815" y="1.91605" z="-4.22904"/>
+				<point x="-0.689504" y="4.87181" z="-7.55511"/>
+				<point x="-0.93893" y="5.1747" z="-7.88296"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>6.52238</sample>
+				<sample>7.92281</sample>
+				<sample>18.3333</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="11">
+		<geometry>
+			<polyline>
+				<point x="2.46648" y="1.64659" z="-3.69669"/>
+				<point x="2.96803" y="1.61536" z="-2.83222"/>
+				<point x="5.63583" y="1.53041" z="1.23034"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>6.74093</sample>
+				<sample>8.15952</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="12">
+		<geometry>
+			<polyline>
+				<point x="2.89816" y="1.88061" z="-3.87055"/>
+				<point x="2.36215" y="2.64215" z="-3.50769"/>
+				<point x="-0.443909" y="6.34774" z="-1.69153"/>
+				<point x="-0.623416" y="6.62473" z="-1.55389"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>6.93452</sample>
+				<sample>8.33609</sample>
+				<sample>18.8334</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="13">
+		<geometry>
+			<polyline>
+				<point x="3.30655" y="2.13012" z="-4.02026"/>
+				<point x="3.93403" y="1.60601" z="-3.44928"/>
+				<point x="6.94454" y="-0.936501" z="-0.498706"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>7.12141</sample>
+				<sample>8.53465</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="14">
+		<geometry>
+			<polyline>
+				<point x="3.70736" y="2.37625" z="-4.16079"/>
+				<point x="4.19378" y="1.81453" z="-3.49269"/>
+				<point x="6.67036" y="-0.836871" z="-0.194962"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>7.30495</sample>
+				<sample>8.71725</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="15">
+		<geometry>
+			<polyline>
+				<point x="4.12167" y="2.64803" z="-4.34465"/>
+				<point x="3.8861" y="2.52183" z="-5.30783"/>
+				<point x="2.68446" y="1.88757" z="-10.1109"/>
+				<point x="2.66124" y="1.87748" z="-10.1965"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>7.50319</sample>
+				<sample>8.90775</sample>
+				<sample>19.7007</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="16">
+		<geometry>
+			<polyline>
+				<point x="4.48949" y="2.87361" z="-4.53539"/>
+				<point x="4.63685" y="2.22072" z="-5.27829"/>
+				<point x="5.26895" y="-0.913908" z="-9.11769"/>
+				<point x="5.3365" y="-1.07501" z="-9.34172"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>7.68071</sample>
+				<sample>9.07855</sample>
+				<sample>19.1602</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="17">
+		<geometry>
+			<polyline>
+				<point x="4.86905" y="3.10643" z="-4.73149"/>
+				<point x="4.48323" y="4.00708" z="-4.5469"/>
+				<point x="2.67795" y="8.36448" z="-4.01311"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>7.86447</sample>
+				<sample>9.27849</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="18">
+		<geometry>
+			<polyline>
+				<point x="5.2179" y="3.32181" z="-4.93803"/>
+				<point x="5.10586" y="2.91016" z="-5.84147"/>
+				<point x="4.52679" y="0.942272" z="-10.1771"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>8.03828</sample>
+				<sample>9.44702</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="19">
+		<geometry>
+			<polyline>
+				<point x="5.639" y="3.64852" z="-5.19603"/>
+				<point x="5.07543" y="4.47035" z="-5.11777"/>
+				<point x="2.73482" y="8.57639" z="-4.98226"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>8.26328</sample>
+				<sample>9.67219</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="20">
+		<geometry>
+			<polyline>
+				<point x="6.04408" y="3.92733" z="-5.42753"/>
+				<point x="6.75312" y="3.22715" z="-5.34492"/>
+				<point x="9.97913" y="-0.0289692" z="-5.26424"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>8.47051</sample>
+				<sample>9.88226</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="21">
+		<geometry>
+			<polyline>
+				<point x="6.40979" y="4.18191" z="-5.63663"/>
+				<point x="6.25484" y="3.78088" z="-6.53946"/>
+				<point x="5.53294" y="2.08874" z="-10.684"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>8.65882</sample>
+				<sample>10.0707</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="22">
+		<geometry>
+			<polyline>
+				<point x="6.69142" y="4.43631" z="-5.90614"/>
+				<point x="6.3281" y="5.28671" z="-5.52569"/>
+				<point x="4.73806" y="8.6574" z="-4.06533"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>8.83745</sample>
+				<sample>10.2702</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="23">
+		<geometry>
+			<polyline>
+				<point x="6.92469" y="4.65877" z="-6.12238"/>
+				<point x="6.2405" y="5.38731" z="-6.15374"/>
+				<point x="3.09792" y="8.89204" z="-6.28029"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>8.98698</sample>
+				<sample>10.3882</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="24">
+		<geometry>
+			<polyline>
+				<point x="7.27181" y="4.90143" z="-6.4409"/>
+				<point x="6.48638" y="5.49212" z="-6.61916"/>
+				<point x="2.861" y="8.6273" z="-7.19586"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>9.19153</sample>
+				<sample>10.5857</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="25">
+		<geometry>
+			<polyline>
+				<point x="7.55406" y="5.12741" z="-6.73338"/>
+				<point x="7.4356" y="4.74789" z="-7.65093"/>
+				<point x="6.92413" y="3.01999" z="-11.7231"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>9.37196</sample>
+				<sample>10.7779</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="26">
+		<geometry>
+			<polyline>
+				<point x="7.90534" y="5.40479" z="-7.07502"/>
+				<point x="8.124" y="4.53937" z="-7.5203"/>
+				<point x="8.73859" y="0.730098" z="-9.62019"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>9.59076</sample>
+				<sample>10.9959</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="27">
+		<geometry>
+			<polyline>
+				<point x="8.257" y="5.62169" z="-7.369"/>
+				<point x="8.98276" y="5.09106" z="-6.93134"/>
+				<point x="11.9931" y="2.61267" z="-5.00761"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>9.7885</sample>
+				<sample>11.1941</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="28">
+		<geometry>
+			<polyline>
+				<point x="8.59013" y="5.81669" z="-7.63548"/>
+				<point x="8.96673" y="6.36232" z="-6.88999"/>
+				<point x="10.4065" y="9.11094" z="-3.85695"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>9.972</sample>
+				<sample>11.3736</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="29">
+		<geometry>
+			<polyline>
+				<point x="8.9533" y="6.03782" z="-7.93882"/>
+				<point x="8.52515" y="6.58223" z="-8.65956"/>
+				<point x="6.84779" y="8.70433" z="-11.3641"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>10.1774</sample>
+				<sample>11.6008</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="30">
+		<geometry>
+			<polyline>
+				<point x="9.23787" y="6.26407" z="-8.29025"/>
+				<point x="9.40935" y="7.14696" z="-7.85364"/>
+				<point x="10.274" y="10.8539" z="-6.0343"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>10.3766</sample>
+				<sample>11.7777</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="31">
+		<geometry>
+			<polyline>
+				<point x="9.65383" y="6.54495" z="-8.69708"/>
+				<point x="10.3687" y="6.56406" z="-7.99849"/>
+				<point x="13.1423" y="6.84934" z="-5.23653"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>10.632</sample>
+				<sample>12.0433</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="32">
+		<geometry>
+			<polyline>
+				<point x="9.99843" y="6.77565" z="-9.03474"/>
+				<point x="9.8878" y="6.18008" z="-9.82986"/>
+				<point x="9.48358" y="4.02775" z="-13.1498"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>10.8443</sample>
+				<sample>12.2489</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="33">
+		<geometry>
+			<polyline>
+				<point x="10.3558" y="7.00529" z="-9.39658"/>
+				<point x="9.8553" y="7.1088" z="-10.2558"/>
+				<point x="7.94514" y="7.11866" z="-13.4984"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>11.0666</sample>
+				<sample>12.4776</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="34">
+		<geometry>
+			<polyline>
+				<point x="10.6827" y="7.224" z="-9.75408"/>
+				<point x="11.1781" y="6.3674" z="-9.89769"/>
+				<point x="12.8056" y="3.07909" z="-10.3354"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>11.2793</sample>
+				<sample>12.6895</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="35">
+		<geometry>
+			<polyline>
+				<point x="11.0069" y="7.39082" z="-10.0779"/>
+				<point x="11.7078" y="7.61889" z="-9.40599"/>
+				<point x="14.2453" y="8.62745" z="-6.76204"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>11.475</sample>
+				<sample>12.8749</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="36">
+		<geometry>
+			<polyline>
+				<point x="11.3551" y="7.56752" z="-10.4541"/>
+				<point x="10.5965" y="7.07356" z="-10.8779"/>
+				<point x="7.9208" y="5.38727" z="-12.2214"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>11.6933</sample>
+				<sample>13.1109</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="37">
+		<geometry>
+			<polyline>
+				<point x="11.7294" y="7.71703" z="-10.8161"/>
+				<point x="12.054" y="7.93893" z="-9.89677"/>
+				<point x="13.1503" y="8.74185" z="-6.57293"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>11.9123</sample>
+				<sample>13.3145</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="38">
+		<geometry>
+			<polyline>
+				<point x="12.098" y="7.88019" z="-11.2468"/>
+				<point x="11.5341" y="8.69724" z="-11.1383"/>
+				<point x="9.49434" y="11.4241" z="-10.7745"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>12.1517</sample>
+				<sample>13.5578</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="39">
+		<geometry>
+			<polyline>
+				<point x="12.3985" y="8.01454" z="-11.6061"/>
+				<point x="13.2069" y="7.88256" z="-11.0337"/>
+				<point x="16.0281" y="7.38795" z="-9.10549"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>12.3503</sample>
+				<sample>13.7488</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="40">
+		<geometry>
+			<polyline>
+				<point x="12.7105" y="8.1677" z="-11.9848"/>
+				<point x="12.1936" y="8.96786" z="-12.2891"/>
+				<point x="10.7068" y="11.6282" z="-13.3159"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>12.5604</sample>
+				<sample>13.9692</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="41">
+		<geometry>
+			<polyline>
+				<point x="13.0264" y="8.32755" z="-12.3247"/>
+				<point x="12.2861" y="8.78588" z="-12.8163"/>
+				<point x="9.95607" y="10.4186" z="-14.4501"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>12.7617</sample>
+				<sample>14.1606</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="42">
+		<geometry>
+			<polyline>
+				<point x="13.4156" y="8.50326" z="-12.7504"/>
+				<point x="13.577" y="7.55064" z="-13.0055"/>
+				<point x="14.1081" y="4.57505" z="-13.7885"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>13.01</sample>
+				<sample>14.4108</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="43">
+		<geometry>
+			<polyline>
+				<point x="13.7688" y="8.66305" z="-13.1359"/>
+				<point x="14.4141" y="8.01429" z="-12.733"/>
+				<point x="16.3125" y="6.16863" z="-11.5882"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>13.2359</sample>
+				<sample>14.6485</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="44">
+		<geometry>
+			<polyline>
+				<point x="14.0918" y="8.76626" z="-13.4682"/>
+				<point x="13.5435" y="9.45075" z="-13.9355"/>
+				<point x="11.7886" y="11.4006" z="-15.3594"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>13.4333</sample>
+				<sample>14.8288</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="45">
+		<geometry>
+			<polyline>
+				<point x="14.383" y="8.89834" z="-13.8252"/>
+				<point x="14.9981" y="9.50596" z="-13.3228"/>
+				<point x="16.6446" y="11.2478" z="-11.87"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>13.6328</sample>
+				<sample>15.0371</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="46">
+		<geometry>
+			<polyline>
+				<point x="14.6117" y="8.99541" z="-14.1559"/>
+				<point x="13.7201" y="9.25729" z="-14.5245"/>
+				<point x="11.4853" y="10.1129" z="-15.4178"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>13.8058</sample>
+				<sample>15.2266</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="47">
+		<geometry>
+			<polyline>
+				<point x="14.908" y="9.1181" z="-14.558"/>
+				<point x="14.7022" y="8.31831" z="-15.1214"/>
+				<point x="14.1384" y="6.18248" z="-16.5447"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>14.0213</sample>
+				<sample>15.4244</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="48">
+		<geometry>
+			<polyline>
+				<point x="15.1494" y="9.20802" z="-14.8984"/>
+				<point x="15.5141" y="10.0708" z="-14.5485"/>
+				<point x="16.3368" y="12.2676" z="-13.636"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>14.2008</sample>
+				<sample>15.6057</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="49">
+		<geometry>
+			<polyline>
+				<point x="15.3989" y="9.35548" z="-15.3502"/>
+				<point x="16.154" y="8.70348" z="-15.29"/>
+				<point x="17.9253" y="7.17634" z="-15.1783"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>14.4272</sample>
+				<sample>15.8406</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="56">
+		<geometry>
+			<polyline>
+				<point x="15.6072" y="9.49728" z="-15.7509"/>
+				<point x="15.0479" y="9.49678" z="-16.5798"/>
+				<point x="13.7676" y="9.34296" z="-18.4767"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>14.6276</sample>
+				<sample>16.0355</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="57">
+		<geometry>
+			<polyline>
+				<point x="15.8424" y="9.60475" z="-16.2152"/>
+				<point x="15.046" y="9.55701" z="-16.8179"/>
+				<point x="13.2931" y="9.39416" z="-18.083"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>14.8534</sample>
+				<sample>16.2628</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="58">
+		<geometry>
+			<polyline>
+				<point x="16.0784" y="9.71135" z="-16.681"/>
+				<point x="16.5182" y="8.83602" z="-16.8816"/>
+				<point x="17.4474" y="7.07445" z="-17.253"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>15.0808</sample>
+				<sample>16.4942</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="59">
+		<geometry>
+			<polyline>
+				<point x="16.211" y="9.81853" z="-17.0152"/>
+				<point x="15.5568" y="10.5641" z="-17.1388"/>
+				<point x="14.4926" y="12.0753" z="-17.422"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>15.2413</sample>
+				<sample>16.6664</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="60">
+		<geometry>
+			<polyline>
+				<point x="16.3101" y="10.0101" z="-17.5057"/>
+				<point x="17.261" y="9.70978" z="-17.5558"/>
+				<point x="19.1345" y="9.09111" z="-17.6959"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>15.4714</sample>
+				<sample>16.8601</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="67">
+		<geometry>
+			<polyline>
+				<point x="16.3939" y="10.1753" z="-17.9303"/>
+				<point x="15.4391" y="10.4715" z="-17.9301"/>
+				<point x="13.8017" y="11.0078" z="-17.9573"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>15.671</sample>
+				<sample>17.0856</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="68">
+		<geometry>
+			<polyline>
+				<point x="16.5079" y="10.3242" z="-18.4969"/>
+				<point x="16.7743" y="11.2362" z="-18.1862"/>
+				<point x="17.1236" y="12.7887" z="-17.7854"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>15.9293</sample>
+				<sample>17.3317</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="69">
+		<geometry>
+			<polyline>
+				<point x="16.5698" y="10.4417" z="-18.9387"/>
+				<point x="16.1032" y="11.175" z="-18.4482"/>
+				<point x="15.3628" y="12.3112" z="-17.7191"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>16.1297</sample>
+				<sample>17.5299</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="70">
+		<geometry>
+			<polyline>
+				<point x="16.6387" y="10.5785" z="-19.4734"/>
+				<point x="16.0667" y="9.8292" z="-19.8068"/>
+				<point x="15.285" y="8.75075" z="-20.2768"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>16.3722</sample>
+				<sample>17.7694</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="71">
+		<geometry>
+			<polyline>
+				<point x="16.6625" y="10.7392" z="-20.0458"/>
+				<point x="16.3775" y="11.6644" z="-19.7954"/>
+				<point x="16.0376" y="12.8075" z="-19.4838"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>16.6326</sample>
+				<sample>18.0372</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="79">
+		<geometry>
+			<polyline>
+				<point x="16.6924" y="10.8543" z="-20.6042"/>
+				<point x="17.6527" y="11.1251" z="-20.5496"/>
+				<point x="18.6888" y="11.4023" z="-20.6583"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>16.8838</sample>
+				<sample>18.2879</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="80">
+		<geometry>
+			<polyline>
+				<point x="16.6688" y="10.9713" z="-21.0502"/>
+				<point x="15.7295" y="10.6974" z="-21.2528"/>
+				<point x="14.8531" y="10.4481" z="-21.4116"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>17.0877</sample>
+				<sample>18.5066</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="81">
+		<geometry>
+			<polyline>
+				<point x="16.6705" y="11.0711" z="-21.5225"/>
+				<point x="17.6426" y="10.8639" z="-21.62"/>
+				<point x="18.4538" y="10.7045" z="-21.7062"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>17.3015</sample>
+				<sample>18.7067</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="82">
+		<geometry>
+			<polyline>
+				<point x="16.6702" y="11.1983" z="-22.1044"/>
+				<point x="16.7615" y="10.2454" z="-22.3852"/>
+				<point x="16.8086" y="9.58401" z="-22.512"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>17.5665</sample>
+				<sample>18.9677</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="83">
+		<geometry>
+			<polyline>
+				<point x="16.6638" y="11.3082" z="-22.5613"/>
+				<point x="15.6716" y="11.1883" z="-22.5394"/>
+				<point x="15.1427" y="11.1308" z="-22.5411"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>17.7764</sample>
+				<sample>19.1838</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="90">
+		<geometry>
+			<polyline>
+				<point x="16.65" y="11.4035" z="-23.0184"/>
+				<point x="17.6183" y="11.587" z="-23.1813"/>
+				<point x="18.007" y="11.6456" z="-23.2502"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>17.9858</sample>
+				<sample>19.3928</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="91">
+		<geometry>
+			<polyline>
+				<point x="16.6444" y="11.5182" z="-23.5437"/>
+				<point x="15.7958" y="12.0336" z="-23.4275"/>
+				<point x="15.5872" y="12.158" z="-23.4035"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>18.2277</sample>
+				<sample>19.6331</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="92">
+		<geometry>
+			<polyline>
+				<point x="16.6839" y="11.576" z="-24.0138"/>
+				<point x="16.0345" y="12.3217" z="-24.1589"/>
+				<point x="15.9667" y="12.4025" z="-24.1698"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>18.4424</sample>
+				<sample>19.8428</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="93">
+		<geometry>
+			<polyline>
+				<point x="16.6944" y="11.6266" z="-24.5028"/>
+				<point x="17.2586" y="10.9557" z="-24.8513"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>18.6653</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="94">
+		<geometry>
+			<polyline>
+				<point x="16.704" y="11.6706" z="-24.9656"/>
+				<point x="17.4134" y="12.0559" z="-25.019"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>18.8769</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="101">
+		<geometry>
+			<polyline>
+				<point x="16.6883" y="11.7061" z="-25.4574"/>
+				<point x="16.3301" y="11.2032" z="-25.6554"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>19.1023</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="102">
+		<geometry>
+			<polyline>
+				<point x="16.6988" y="11.7456" z="-25.9431"/>
+				<point x="16.4915" y="11.3017" z="-25.8937"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>19.3257</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="103">
+		<geometry>
+			<polyline>
+				<point x="16.6989" y="11.7846" z="-26.4669"/>
+				<point x="16.5908" y="11.5067" z="-26.5798"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>19.5675</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="104">
+		<geometry>
+			<polyline>
+				<point x="16.6961" y="11.8246" z="-26.9689"/>
+				<point x="16.8347" y="11.7763" z="-26.9936"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>19.8003</sample>
+				<sample>20</sample>
+			</function>
+		</functions>
+	</root>
+</root>
+<root id="1">
+	<geometry>
+		<polyline>
+			<point x="0" y="0" z="-3.1"/>
+			<point x="0.457641" y="0.300054" z="-3.09571"/>
+			<point x="2.46127" y="1.75786" z="-3.12055"/>
+			<point x="4.46218" y="3.21213" z="-3.4765"/>
+			<point x="6.65008" y="4.91545" z="-4.01623"/>
+			<point x="8.72542" y="6.32686" z="-4.83512"/>
+			<point x="10.7204" y="7.64622" z="-5.56393"/>
+			<point x="13.119" y="9.14839" z="-6.39173"/>
+			<point x="14.5361" y="10.1958" z="-6.96784"/>
+			<point x="16.5952" y="11.4138" z="-7.79213"/>
+			<point x="18.703" y="12.9331" z="-9.09086"/>
+			<point x="20.6437" y="14.0543" z="-10.575"/>
+			<point x="22.7072" y="15.1249" z="-12.1488"/>
+			<point x="24.6277" y="16.1493" z="-13.2496"/>
+			<point x="27.1347" y="17.3248" z="-14.5644"/>
+			<point x="29.3424" y="18.5004" z="-16.1186"/>
+		</polyline>
+	</geometry>
+	<properties>
+	</properties>
+	<functions>
+		<function name='emergence_time' domain='polyline'>
+			<sample>7</sample>
+			<sample>0.168505</sample>
+			<sample>0.938717</sample>
+			<sample>1.72617</sample>
+			<sample>2.62943</sample>
+			<sample>3.48695</sample>
+			<sample>4.3114</sample>
+			<sample>5.30103</sample>
+			<sample>5.93198</sample>
+			<sample>6.80931</sample>
+			<sample>7.82878</sample>
+			<sample>8.78978</sample>
+			<sample>9.81047</sample>
+			<sample>10.7145</sample>
+			<sample>11.8685</sample>
+			<sample>13</sample>
+		</function>
+	</functions>
+	<root id="50">
+		<geometry>
+			<polyline>
+				<point x="0.457641" y="0.300054" z="-3.09571"/>
+				<point x="0.169584" y="1.12585" z="-3.57474"/>
+				<point x="-0.492608" y="3.44367" z="-4.82927"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>6.32323</sample>
+				<sample>7.74771</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="51">
+		<geometry>
+			<polyline>
+				<point x="0.834115" y="0.55587" z="-3.08906"/>
+				<point x="1.10889" y="0.584064" z="-4.04704"/>
+				<point x="1.92299" y="0.488219" z="-6.75293"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>6.48014</sample>
+				<sample>7.88836</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="52">
+		<geometry>
+			<polyline>
+				<point x="1.2384" y="0.834486" z="-3.08095"/>
+				<point x="1.25412" y="0.926805" z="-4.07655"/>
+				<point x="1.55965" y="1.2373" z="-6.80237"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>6.64991</sample>
+				<sample>8.05719</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="53">
+		<geometry>
+			<polyline>
+				<point x="1.70065" y="1.19332" z="-3.08432"/>
+				<point x="1.33833" y="2.07465" z="-3.3861"/>
+				<point x="0.493303" y="4.44186" z="-4.1753"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>6.85289</sample>
+				<sample>8.26311</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="54">
+		<geometry>
+			<polyline>
+				<point x="2.0787" y="1.48989" z="-3.08322"/>
+				<point x="1.70012" y="2.13152" z="-2.41744"/>
+				<point x="0.664622" y="3.87682" z="-0.728044"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>7.02011</sample>
+				<sample>8.4217</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="55">
+		<geometry>
+			<polyline>
+				<point x="2.46127" y="1.75786" z="-3.12055"/>
+				<point x="2.47642" y="1.5744" z="-4.10239"/>
+				<point x="2.51245" y="1.11969" z="-6.49307"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>7.18366</sample>
+				<sample>8.59962</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="61">
+		<geometry>
+			<polyline>
+				<point x="2.92745" y="2.11523" z="-3.18469"/>
+				<point x="3.60588" y="1.54411" z="-2.72273"/>
+				<point x="5.34416" y="0.151399" z="-1.60755"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>7.39076</sample>
+				<sample>8.78882</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="62">
+		<geometry>
+			<polyline>
+				<point x="3.32453" y="2.39141" z="-3.25596"/>
+				<point x="2.82947" y="3.0911" z="-2.74204"/>
+				<point x="1.59418" y="4.7134" z="-1.63488"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>7.56257</sample>
+				<sample>8.97066</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="63">
+		<geometry>
+			<polyline>
+				<point x="3.71898" y="2.67424" z="-3.31712"/>
+				<point x="4.06696" y="1.81638" z="-3.69431"/>
+				<point x="4.89445" y="-0.138773" z="-4.46476"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>7.73501</sample>
+				<sample>9.14004</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="64">
+		<geometry>
+			<polyline>
+				<point x="4.08187" y="2.93167" z="-3.38292"/>
+				<point x="4.33538" y="2.09661" z="-3.87118"/>
+				<point x="4.62342" y="0.255986" z="-4.93285"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>7.89401</sample>
+				<sample>9.30321</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="65">
+		<geometry>
+			<polyline>
+				<point x="4.46218" y="3.21213" z="-3.4765"/>
+				<point x="4.66095" y="2.64108" z="-4.27289"/>
+				<point x="5.10685" y="1.44392" z="-5.91527"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>8.06481</sample>
+				<sample>9.47127</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="66">
+		<geometry>
+			<polyline>
+				<point x="4.85066" y="3.51304" z="-3.56952"/>
+				<point x="5.48142" y="2.8916" z="-3.10817"/>
+				<point x="6.64108" y="1.67917" z="-2.05312"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>8.24268</sample>
+				<sample>9.65011</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="72">
+		<geometry>
+			<polyline>
+				<point x="5.19379" y="3.79745" z="-3.65743"/>
+				<point x="5.33531" y="4.1865" z="-2.74714"/>
+				<point x="5.5371" y="4.997" z="-1.09014"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>8.40477</sample>
+				<sample>9.81915</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="73">
+		<geometry>
+			<polyline>
+				<point x="5.56463" y="4.07797" z="-3.74351"/>
+				<point x="6.2327" y="3.65025" z="-3.13528"/>
+				<point x="7.52296" y="2.89181" z="-2.02592"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>8.57397</sample>
+				<sample>9.97223</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="74">
+		<geometry>
+			<polyline>
+				<point x="5.9254" y="4.36171" z="-3.82065"/>
+				<point x="6.36164" y="4.16079" z="-2.94367"/>
+				<point x="7.06158" y="3.77229" z="-1.45582"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>8.74104</sample>
+				<sample>10.1547</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="75">
+		<geometry>
+			<polyline>
+				<point x="6.30931" y="4.66509" z="-3.91948"/>
+				<point x="6.18288" y="5.28861" z="-3.14898"/>
+				<point x="6.08257" y="6.36523" z="-1.87704"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>8.92075</sample>
+				<sample>10.3186</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="76">
+		<geometry>
+			<polyline>
+				<point x="6.65008" y="4.91545" z="-4.01623"/>
+				<point x="7.16624" y="4.27978" z="-3.44694"/>
+				<point x="7.98626" y="3.26031" z="-2.58931"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>9.07738</sample>
+				<sample>10.4788</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="77">
+		<geometry>
+			<polyline>
+				<point x="7.01469" y="5.16127" z="-4.15894"/>
+				<point x="7.09466" y="4.75491" z="-5.0676"/>
+				<point x="7.10787" y="4.27665" z="-6.41239"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>9.2448</sample>
+				<sample>10.6551</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="78">
+		<geometry>
+			<polyline>
+				<point x="7.45093" y="5.45523" z="-4.32978"/>
+				<point x="7.39857" y="6.40261" z="-4.01443"/>
+				<point x="7.27934" y="7.67387" z="-3.56025"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>9.44574</sample>
+				<sample>10.8459</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="84">
+		<geometry>
+			<polyline>
+				<point x="7.84469" y="5.72229" z="-4.49334"/>
+				<point x="7.98303" y="5.273" z="-5.37536"/>
+				<point x="8.08576" y="4.71517" z="-6.41266"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>9.62917</sample>
+				<sample>11.0538</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="85">
+		<geometry>
+			<polyline>
+				<point x="8.28312" y="6.00592" z="-4.67532"/>
+				<point x="7.65918" y="6.77785" z="-4.77344"/>
+				<point x="7.01339" y="7.63173" z="-4.86679"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>9.83146</sample>
+				<sample>11.2493</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="86">
+		<geometry>
+			<polyline>
+				<point x="8.72542" y="6.32686" z="-4.83512"/>
+				<point x="8.76257" y="6.26884" z="-5.83219"/>
+				<point x="8.85174" y="6.23664" z="-6.81003"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>10.0405</sample>
+				<sample>11.4463</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="87">
+		<geometry>
+			<polyline>
+				<point x="9.08933" y="6.58454" z="-4.96739"/>
+				<point x="8.95477" y="7.2204" z="-4.21063"/>
+				<point x="8.8396" y="7.76734" z="-3.58385"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>10.2119</sample>
+				<sample>11.6363</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="88">
+		<geometry>
+			<polyline>
+				<point x="9.45945" y="6.8179" z="-5.09845"/>
+				<point x="9.0447" y="7.72038" z="-5.21017"/>
+				<point x="8.74339" y="8.44687" z="-5.28273"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>10.3807</sample>
+				<sample>11.7826</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="89">
+		<geometry>
+			<polyline>
+				<point x="9.89808" y="7.09684" z="-5.26157"/>
+				<point x="10.4995" y="6.43287" z="-4.81752"/>
+				<point x="10.8694" y="6.0191" z="-4.55897"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>10.5827</sample>
+				<sample>12.0188</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="95">
+		<geometry>
+			<polyline>
+				<point x="10.3184" y="7.36903" z="-5.42374"/>
+				<point x="9.76497" y="8.18795" z="-5.57558"/>
+				<point x="9.46669" y="8.62836" z="-5.6548"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>10.7785</sample>
+				<sample>12.1816</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="96">
+		<geometry>
+			<polyline>
+				<point x="10.7204" y="7.64622" z="-5.56393"/>
+				<point x="11.4464" y="7.06481" z="-5.19692"/>
+				<point x="11.7385" y="6.79229" z="-5.05054"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>10.9682</sample>
+				<sample>12.3645</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="97">
+		<geometry>
+			<polyline>
+				<point x="11.1636" y="7.90318" z="-5.70623"/>
+				<point x="10.9061" y="8.7608" z="-5.26165"/>
+				<point x="10.8376" y="8.99875" z="-5.12112"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>11.1674</sample>
+				<sample>12.5717</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="98">
+		<geometry>
+			<polyline>
+				<point x="11.5606" y="8.14838" z="-5.83003"/>
+				<point x="11.5984" y="8.95302" z="-5.23857"/>
+				<point x="11.6111" y="9.09078" z="-5.13807"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>11.3489</sample>
+				<sample>12.747</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="99">
+		<geometry>
+			<polyline>
+				<point x="11.9092" y="8.35415" z="-5.94574"/>
+				<point x="12.1897" y="7.46579" z="-6.30856"/>
+				<point x="12.2051" y="7.41738" z="-6.33026"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>11.5077</sample>
+				<sample>12.9173</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="100">
+		<geometry>
+			<polyline>
+				<point x="12.3383" y="8.60317" z="-6.09255"/>
+				<point x="11.7482" y="9.30311" z="-6.27135"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>11.7034</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="106">
+		<geometry>
+			<polyline>
+				<point x="12.7769" y="8.94282" z="-6.28113"/>
+				<point x="12.3631" y="9.58559" z="-6.4179"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>11.9263</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="107">
+		<geometry>
+			<polyline>
+				<point x="13.169" y="9.18615" z="-6.41265"/>
+				<point x="12.8935" y="9.7505" z="-6.56374"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>12.1093</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="108">
+		<geometry>
+			<polyline>
+				<point x="13.4673" y="9.41229" z="-6.53114"/>
+				<point x="13.4104" y="9.1067" z="-6.9727"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>12.2594</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="109">
+		<geometry>
+			<polyline>
+				<point x="13.7551" y="9.61866" z="-6.64642"/>
+				<point x="13.8103" y="9.3804" z="-7.00809"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>12.4022</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="110">
+		<geometry>
+			<polyline>
+				<point x="14.1625" y="9.90752" z="-6.77775"/>
+				<point x="14.0153" y="10.1163" z="-6.92397"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>12.6007</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="111">
+		<geometry>
+			<polyline>
+				<point x="14.5361" y="10.1958" z="-6.96784"/>
+				<point x="14.6335" y="10.1723" z="-6.8548"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>12.7969</sample>
+				<sample>13</sample>
+			</function>
+		</functions>
+	</root>
+</root>
+<root id="2">
+	<geometry>
+		<polyline>
+			<point x="0" y="0" z="-3.1"/>
+			<point x="0.333974" y="0.418132" z="-3.25416"/>
+			<point x="1.91046" y="2.15551" z="-4.19963"/>
+			<point x="3.63223" y="3.96972" z="-5.29104"/>
+			<point x="5.32965" y="5.88923" z="-6.5969"/>
+			<point x="6.72567" y="7.83734" z="-8.23011"/>
+			<point x="8.10517" y="9.60196" z="-9.64011"/>
+			<point x="9.02754" y="11.4746" z="-11.1623"/>
+			<point x="9.5003" y="12.7215" z="-12.367"/>
+		</polyline>
+	</geometry>
+	<properties>
+	</properties>
+	<functions>
+		<function name='emergence_time' domain='polyline'>
+			<sample>14</sample>
+			<sample>0.169882</sample>
+			<sample>0.948818</sample>
+			<sample>1.80357</sample>
+			<sample>2.71769</sample>
+			<sample>3.65644</sample>
+			<sample>4.52677</sample>
+			<sample>5.3911</sample>
+			<sample>6</sample>
+		</function>
+	</functions>
+	<root id="133">
+		<geometry>
+			<polyline>
+				<point x="0.333974" y="0.418132" z="-3.25416"/>
+				<point x="0.145857" y="0.608586" z="-3.05874"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>5.55017</sample>
+				<sample>6</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="134">
+		<geometry>
+			<polyline>
+				<point x="0.662749" y="0.781787" z="-3.42127"/>
+				<point x="0.539228" y="0.909921" z="-3.32248"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>5.72539</sample>
+				<sample>6</sample>
+			</function>
+		</functions>
+	</root>
+	<root id="135">
+		<geometry>
+			<polyline>
+				<point x="0.959656" y="1.10627" z="-3.59204"/>
+				<point x="0.998894" y="1.04663" z="-3.63903"/>
+			</polyline>
+		</geometry>
+		<properties>
+		</properties>
+		<functions>
+			<function name='emergence_time' domain='polyline'>
+				<sample>5.88552</sample>
+				<sample>6</sample>
+			</function>
+		</functions>
+	</root>
+</root>
+</plant>
+</scene>
+</rsml>
